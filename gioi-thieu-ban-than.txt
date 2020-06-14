@@ -1,1 +1,13 @@
-minh ten la tuan Heelo moi nguoi
+
+minh ten la tuan Helo moi nguoi
+
+ho va ten: Nguyen Phuoc Nhat;
+tuoi: 20;
+tinh: Quang Nam;
+
+xin chao ten minh la duong
+Nguyen Phuoc Nhat
+Xin chào! Tôi tên là Lưu Minh Tâm
+
+
+
