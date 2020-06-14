@@ -1,1 +1,3 @@
-Nguyen Phuoc Nhat
+ho va ten: Nguyen Phuoc Nhat;
+tuoi: 20;
+tinh: Quang Nam;
